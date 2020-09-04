@@ -1,5 +1,5 @@
 SC Controller Androiod port
-
+=============
 Greetings!
 
 This is an effort to create an Android port of the SC Controller project, specifically the C branch.
@@ -14,7 +14,7 @@ I have just begun, nothing is done yet!
 Below is the origional ReadMe from kozec, the guy actually coding SC Controller.
 
 
-=============
+
 User-mode driver and mapper for Steam Controller, DS4 and similar controllers.
 
 [![screenshot1](docs/screenshot1-tn.png?raw=true)](docs/screenshot1.png?raw=true)
